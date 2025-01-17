@@ -1,0 +1,125 @@
+2025-01-17 15:38:41,151 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 15:38:41,164 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 15:38:44,066 - Jarvis has been initialized.
+2025-01-17 15:38:56,399 - Wake word detected.
+2025-01-17 15:38:59,911 - Command received: open YouTube
+2025-01-17 15:39:12,380 - Wake word detected.
+2025-01-17 15:39:14,488 - Command received: Facebook
+2025-01-17 15:39:16,072 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 401 Unauthorized"
+2025-01-17 15:39:20,175 - Error: Error code: 401 - {'error': {'message': 'Incorrect API key provided: YOUR_API_KEY. You can find your API key at https://platform.openai.com/account/api-keys.', 'type': 'invalid_request_error', 'param': None, 'code': 'invalid_api_key'}}
+2025-01-17 15:39:32,142 - UnknownValueError: Speech not recognized.
+2025-01-17 15:40:14,404 - UnknownValueError: Speech not recognized.
+2025-01-17 16:18:43,034 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 16:18:43,035 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 16:18:46,267 - Jarvis has been initialized.
+2025-01-17 16:18:56,402 - Wake word detected.
+2025-01-17 16:19:02,850 - Command received: open Google
+2025-01-17 16:19:25,823 - UnknownValueError: Speech not recognized.
+2025-01-17 16:19:35,120 - Wake word detected.
+2025-01-17 16:19:39,205 - Command received: play music Arijit
+2025-01-17 16:19:56,198 - UnknownValueError: Speech not recognized.
+2025-01-17 16:20:06,687 - UnknownValueError: Speech not recognized.
+2025-01-17 16:20:21,888 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 16:20:21,889 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 16:20:24,914 - Jarvis has been initialized.
+2025-01-17 16:20:34,443 - Wake word detected.
+2025-01-17 16:20:37,206 - Command received: play Arijit
+2025-01-17 16:20:50,971 - UnknownValueError: Speech not recognized.
+2025-01-17 16:21:08,017 - UnknownValueError: Speech not recognized.
+2025-01-17 21:02:01,124 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 21:02:01,126 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 21:02:04,564 - Jarvis has been initialized.
+2025-01-17 21:02:16,732 - Wake word detected.
+2025-01-17 21:02:18,809 - Command received: Google
+2025-01-17 21:02:21,259 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 21:02:21,260 - Retrying request to /chat/completions in 0.396366 seconds
+2025-01-17 21:02:21,995 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 21:02:21,996 - Retrying request to /chat/completions in 0.972209 seconds
+2025-01-17 21:02:23,273 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 21:02:27,609 - Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-01-17 21:02:35,504 - Wake word detected.
+2025-01-17 21:02:37,450 - Command received: Google
+2025-01-17 21:02:38,372 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 21:02:38,373 - Retrying request to /chat/completions in 0.423776 seconds
+2025-01-17 21:02:39,106 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 21:02:39,107 - Retrying request to /chat/completions in 0.778213 seconds
+2025-01-17 21:02:40,193 - HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 429 Too Many Requests"
+2025-01-17 21:02:44,576 - Error: Error code: 429 - {'error': {'message': 'You exceeded your current quota, please check your plan and billing details. For more information on this error, read the docs: https://platform.openai.com/docs/guides/error-codes/api-errors.', 'type': 'insufficient_quota', 'param': None, 'code': 'insufficient_quota'}}
+2025-01-17 21:02:53,340 - Wake word detected.
+2025-01-17 21:02:56,858 - Command received: open Google
+2025-01-17 21:03:29,593 - UnknownValueError: Speech not recognized.
+2025-01-17 21:03:57,626 - UnknownValueError: Speech not recognized.
+2025-01-17 21:04:08,268 - Wake word detected.
+2025-01-17 21:04:36,268 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 21:04:36,269 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 21:04:39,026 - Jarvis has been initialized.
+2025-01-17 21:04:46,854 - Wake word detected.
+2025-01-17 21:04:50,871 - Command received: tell me something news
+2025-01-17 22:56:08,063 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 22:56:08,064 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 22:56:11,179 - Jarvis has been initialized.
+2025-01-17 22:56:26,955 - Wake word detected.
+2025-01-17 22:56:32,508 - Command received: who is the first prime minister of India
+2025-01-17 22:57:05,905 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 22:57:05,906 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 22:57:08,799 - Jarvis has been initialized.
+2025-01-17 22:57:16,668 - Wake word detected.
+2025-01-17 22:57:23,829 - Command received: my friend is so much fucking guys how I can handle
+2025-01-17 22:57:50,843 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 22:57:50,844 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 22:57:53,745 - Jarvis has been initialized.
+2025-01-17 22:58:01,971 - Wake word detected.
+2025-01-17 22:58:08,146 - Command received: Hindi mein main Kitni Galiyan De sakta hun Apne
+2025-01-17 22:58:57,692 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 22:58:57,692 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 22:59:00,596 - Jarvis has been initialized.
+2025-01-17 22:59:11,673 - UnknownValueError: Speech not recognized.
+2025-01-17 22:59:23,760 - UnknownValueError: Speech not recognized.
+2025-01-17 22:59:41,098 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 22:59:41,099 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 22:59:44,075 - Jarvis has been initialized.
+2025-01-17 22:59:51,738 - Wake word detected.
+2025-01-17 22:59:55,748 - Command received: you know the Mahakal of Ujjain
+2025-01-17 23:00:24,520 - UnknownValueError: Speech not recognized.
+2025-01-17 23:00:35,232 - UnknownValueError: Speech not recognized.
+2025-01-17 23:00:43,648 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 23:00:43,649 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 23:00:46,603 - Jarvis has been initialized.
+2025-01-17 23:00:54,699 - Wake word detected.
+2025-01-17 23:00:58,425 - Command received: my friend is so
+2025-01-17 23:01:40,262 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 23:01:40,263 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 23:01:43,286 - Jarvis has been initialized.
+2025-01-17 23:01:50,976 - Wake word detected.
+2025-01-17 23:01:54,564 - Command received: how to make drone
+2025-01-17 23:53:33,621 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 23:53:33,622 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 23:53:36,685 - Jarvis has been initialized.
+2025-01-17 23:53:42,180 - Error: 'NoneType' object has no attribute 'close'
+2025-01-17 23:53:51,341 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 23:53:51,342 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 23:53:54,224 - Jarvis has been initialized.
+2025-01-17 23:54:02,673 - UnknownValueError: Speech not recognized.
+2025-01-17 23:54:13,811 - UnknownValueError: Speech not recognized.
+2025-01-17 23:54:20,150 - Wake word detected.
+2025-01-17 23:54:25,707 - Command received: please sing a song
+2025-01-17 23:55:13,672 - Wake word detected.
+2025-01-17 23:55:24,352 - Command received: tell me the factorial of
+2025-01-17 23:55:44,128 - Wake word detected.
+2025-01-17 23:55:48,809 - Command received: play Arijit Singh song play Ari
+2025-01-17 23:55:59,943 - Wake word detected.
+2025-01-17 23:56:02,416 - Command received: play Arijit
+2025-01-17 23:56:13,083 - UnknownValueError: Speech not recognized.
+2025-01-17 23:56:23,037 - UnknownValueError: Speech not recognized.
+2025-01-17 23:56:37,168 - UnknownValueError: Speech not recognized.
+2025-01-17 23:56:43,476 - Wake word detected.
+2025-01-17 23:56:45,907 - Command received: play Raha
+2025-01-17 23:56:56,022 - Wake word detected.
+2025-01-17 23:56:59,095 - Command received: factorial of 100
+2025-01-17 23:58:00,440 - Imported existing <module 'comtypes.gen' from 'C:\\Users\\bande\\OneDrive\\Documents\\projects\\Mega Project1-Mrityunjay\\.venv\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-01-17 23:58:00,441 - Using writeable comtypes cache directory: 'C:\Users\bande\OneDrive\Documents\projects\Mega Project1-Mrityunjay\.venv\Lib\site-packages\comtypes\gen'
+2025-01-17 23:58:03,327 - Jarvis has been initialized.
+2025-01-17 23:58:11,203 - Wake word detected.
+2025-01-17 23:58:14,661 - Command received: tell me something about
+2025-01-17 23:58:41,090 - Wake word detected.
+2025-01-17 23:58:44,594 - Command received: give me news
